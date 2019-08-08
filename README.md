@@ -17,8 +17,14 @@ nor that an evil programmer can break it.
 ## Interactive API documentation:
 1) start this application `org.nameapi.NumbersApplication`
 2) open http://localhost:8080/swagger-ui.html
-![SwaggerUI](docs/Swagger UI 2019-08-08 03-41-17.png)
+<br>
+![](docs/Swagger UI 2019-08-08 03-41-17.png)
+<img src="docs/Swagger UI 2019-08-08 03-41-17.png">
 3) authorize with `application.properties:numbers.http.auth-token`
-![SwaggerUI](docs/Swagger UI 2019-08-08 03-42-31.png)
+<br>
+![](docs/Swagger UI 2019-08-08 03-42-31.png)
+<img src="docs/Swagger UI 2019-08-08 03-42-31.png">
 4) you can now test available numbers api
-![SwaggerUI](docs/Swagger UI 2019-08-08 03-43-53.png)
+<br>
+![](docs/Swagger UI 2019-08-08 03-43-53.png)
+<img src="docs/Swagger UI 2019-08-08 03-43-53.png">
