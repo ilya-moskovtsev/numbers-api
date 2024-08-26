@@ -19,7 +19,7 @@
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>11</java.version>
-        <springfox-swagger.version>2.9.2</springfox-swagger.version>
+        <springfox-swagger.version>2.10.0</springfox-swagger.version>
     </properties>
 
     <dependencies>
